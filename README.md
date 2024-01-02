@@ -1,6 +1,6 @@
 # todo_firebase
 
-A new Flutter project.
+firebaseと連携してflutterでtodo管理アプリを作成してみた。
 
 ## Getting Started
 
